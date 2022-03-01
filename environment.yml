@@ -1,0 +1,18 @@
+name: multiple_coherence
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.9
+  - numpy
+  - scipy
+  - matplotlib
+  - nds2-client
+  - python-nds2-client
+  - ipython
+  - jupyter
+  - gpstime
+  - astropy
+  - tqdm
+  - black
+  - pyyaml
